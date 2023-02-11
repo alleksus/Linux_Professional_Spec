@@ -1,1 +1,1 @@
-# Linux_Professional_Spec
+# В репозитории есть рабочий Vagrantfile с образом Centos 7
