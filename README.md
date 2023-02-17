@@ -1,1 +1,2 @@
-# В репозитории есть рабочий Vagrantfile с образом Centos 7
+Задание №1 
+В репозитории Vagrantfile с образом Centos 7
